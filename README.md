@@ -1,4 +1,4 @@
- Hi there, I'm Irene Katusiime 👋
+ Hi there, I'm Irene Katusiime 
 
 I'm a Full Stack Developer passionate about building practical web applications that solve real-world problems. I enjoy developing scalable, user-friendly solutions using modern web technologies and continuously improving my skills through hands-on projects and collaboration.
 
